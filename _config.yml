@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DK의 블로그
+title: DK's Devlog
 email: 4artit@gmail.com
 author: DK-sr
 copyright: Copyright © 2022
@@ -87,7 +87,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -107,7 +107,7 @@ yat:
 #   - about.md
 
 # Page
-heading: "DK's dev log"
+heading: "DK의 개발로그"
 subheading: ""
 # banner: "Your image url"
 
